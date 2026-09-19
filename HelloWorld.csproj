@@ -1,0 +1,16 @@
+﻿<!-- Tells the .NET build tools which project type logic to use -->
+<Project Sdk="Microsoft.NET.Sdk"> 
+
+<!--Container for build settings/properties. Property group is good for single value setting-->
+<PropertyGroup> 
+<!--compiles to an executable rather then a library. Use Exe when you need and entry point inside of your code-->
+  <OutputType>Exe</OutputType>
+<!--Version of .NET being used for project-->
+  <TargetFramework>net10.0</TargetFramework>
+<!--Auto-adds common using statments, such as Systems, to every file-->
+  <ImplicitUsings>enable</ImplicitUsings>
+  <!--Turns on the nullable referance type warnings. Helps catch null reference bugs when the code is complied instead of at runtime-->
+  <Nullable>enable</Nullable>
+</PropertyGroup>
+
+</Project>
