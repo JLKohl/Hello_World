@@ -12,3 +12,4 @@
 /Users/jenniferkohl/Desktop/Hello_World/obj/Debug/net10.0/HelloWorld.pdb
 /Users/jenniferkohl/Desktop/Hello_World/obj/Debug/net10.0/HelloWorld.genruntimeconfig.cache
 /Users/jenniferkohl/Desktop/Hello_World/obj/Debug/net10.0/ref/HelloWorld.dll
+/Users/jenniferkohl/Desktop/Hello_World/obj/Debug/net10.0/HelloWorld.sourcelink.json
