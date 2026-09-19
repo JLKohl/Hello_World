@@ -1,7 +1,5 @@
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
-
 This is a simple Hello World project that writes "hello world" in the terminal when it is run.
 
 The software was created so that I could learn more about how to use the language C# from the 
