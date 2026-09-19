@@ -1,6 +1,6 @@
 # Overview
 
-This is a simple Hello World project that writes "hello world" in the terminal when it is run.
+This is a simple Hello World project written in C# that writes "Hello, World!" in the terminal when you use `dotnet run`. 
 
 The software was created so that I could learn more about how to use the language C# from the 
 ground up. 
